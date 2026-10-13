@@ -1,0 +1,25 @@
+# Build outputs
+build/
+bin/
+*.uf2
+*.elf
+*.bin
+*.hex
+*.map
+
+# EDA & Manufacturing temporary files
+*.tmp
+*.bak
+*.orig
+*.DS_Store
+Thumbs.db
+
+# Node / Web dependencies (if any)
+node_modules/
+dist/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*~
